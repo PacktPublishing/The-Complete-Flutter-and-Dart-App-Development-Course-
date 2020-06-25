@@ -1,0 +1,7 @@
+For MAC Users ONLY: How to Create a .bash_profile
+Follow this link: https://redfinsolutions.com/blog/creating-bashprofile-your-mac
+
+
+
+For MAC Users ONLY: How to Access the Library Folder in Your Home Folder
+Follow this link: http://osxdaily.com/2011/07/22/access-user-library-folder-in-os-x-lion/

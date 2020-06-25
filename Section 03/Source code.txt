@@ -1,0 +1,4 @@
+Flutter App Project Source Code
+Here's a link to download the source code for the entire Flutter Sections ( Dart sections not included): https://buildappswithpaulo.com/courses/flutter-course-code/
+
+I recommend you download the source code ( or have the link handy ) so you can use it as a reference throughout the course.

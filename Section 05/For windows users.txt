@@ -1,0 +1,6 @@
+Windows Flutter Installation Resources - Very Helpful!
+The installation process can be a bit daunting, but fear not - I am here to help. If you went through the previous videos and want some documentation to help with the details, please follow this official link with all you need to get it all done.
+
+
+
+Here it is:https://flutter.io/setup-windows/
