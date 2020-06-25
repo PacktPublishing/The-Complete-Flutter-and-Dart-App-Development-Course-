@@ -1,0 +1,2 @@
+[API Link] - JSON API Link to Use
+The Actually API we will use: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson

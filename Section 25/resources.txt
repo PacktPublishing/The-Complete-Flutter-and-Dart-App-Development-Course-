@@ -1,0 +1,12 @@
+Resources
+Here are some helpful resources:
+
+Flutter Launcher Icons: https://pub.dev/packages/flutter_launcher_icons
+
+Android Asset Studio: https://jgilfelt.github.io/AndroidAssetStudio/index.html
+
+Build and release Android App: https://flutter.dev/docs/deployment/android#adding-a-launcher-icon
+
+Build and release iOS App: https://flutter.dev/docs/deployment/ios
+
+Play console: https://play.google.com/apps/publish

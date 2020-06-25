@@ -1,0 +1,18 @@
+Resources
+Getting flutter Google Map package and instructions: https://pub.dev/packages/google_maps_flutter
+
+Getting your own API key for Google Maps: https://cloud.google.com/maps-platform/
+
+
+
+Important!! - How to fix Android dependency issues: https://github.com/flutter/flutter/issues/27254
+
+AndroidX Migration Document: https://flutter.dev/docs/development/androidx-migration
+
+
+
+===== Quakes App Resources ===
+
+1. USGS link to the main page with all JSON API options: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+2. The Actually API we will use: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson

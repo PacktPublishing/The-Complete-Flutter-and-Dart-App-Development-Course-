@@ -1,0 +1,22 @@
+Resources and Tips
+Learn more about DateFormat class: https://api.flutter.dev/flutter/intl/DateFormat-class.html
+
+Online JSON Viewer: https://jsonformatter.org/json-viewer
+
+Weather API link: https://api.openweathermap.org/data/2.5/forecast/daily?q=portland&appid=ADD-YOUR-API-ID&units=imperial
+
+How to solve issues with FontAwesome Plugin
+
+Most likely, you'll probably run into rendering issues with fontawesome. If that happens, here's how to solve the issue:
+
+https://github.com/brianegan/font_awesome_flutter/issues/28#issuecomment-460109786
+
+Please try:
+
+Stopping the app
+
+Running flutter clean in your app directory
+
+Deleting the app from your simulator / emulator / device
+
+Rebuild & Deploy the app.

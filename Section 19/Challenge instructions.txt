@@ -1,0 +1,70 @@
+Challenge Instructions
+
+
+Challenge Instructions:
+
+The goal of this challenge is to revamp the entire app’s Theme from the ground up. You’ll get the opportunity to use all the skills you have learned about Theming and Material design to finish this challenge.
+
+
+
+A starter project ( full, working monthly mortgage payment calculator ) will be provided for you, that way your only job is to “beautify” the app.
+
+
+
+Feel free to make the app your own, though- that’s where the majority of learning happens.
+
+
+
+Here are the instructions:
+
+Download the starter project ( Mortgage Payment Calculator)
+
+Choose any color palette to use from Material Color tool: https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=D81B60
+
+or from 2014 material color Palettes: https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+
+Also, pay attention to how to apply colors ( just as a reference ): https://material.io/design/color/applying-color-to-ui.html#
+
+Create a color class from the colors you chose earlier ( constant colors to host all of the colors for theming the app)
+
+
+
+
+
+Customize your entire application Theme by overwriting ThemeData class. Particularly, overwrite the following properties:
+
+accentColor,
+
+primaryColor,
+
+buttonColor,
+
+scaffoldBackgroundColor,
+
+CardColor,
+
+textTheme,
+
+primaryTextTheme,
+
+accentTheme
+
+… and any others of your choice.
+
+
+
+You’ll notice there’re a few TODO’s marks in the source code. Please, complete as many todos as you can.
+
+
+
+Use google.fonts and pick a suitable font for the app.
+
+Add that font to the project ( if you feel inclined, you could add at least 2 fonts ) - remember pubspec.yaml.
+
+Good luck!
+
+
+
+
+
+P.S - Material color tool link: https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=D81B60

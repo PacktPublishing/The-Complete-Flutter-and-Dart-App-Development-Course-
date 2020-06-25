@@ -1,0 +1,4 @@
+Resources
+Firestore and Flutter project setup: https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#3
+
+FireStore Documentation: https://firebase.google.com/docs/firestore
